@@ -1,5 +1,5 @@
 %%[
-set @test = 'Test from Aman dd from Atom'
+set @test = 'Test from Aman dd from Atomdddd'
 ]%%
 
 Output is : %%=v(@test)=%%
