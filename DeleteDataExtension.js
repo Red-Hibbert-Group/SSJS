@@ -2,7 +2,7 @@
 <script runat="server">
 Platform.Load("core","1.1");
 var prox = new Script.Util.WSProxy();
-var objectID = "raju";
+var objectID = "pallavi";
 
 var res = prox.deleteItem("DataExtension", { "CustomerKey":objectID });
 
